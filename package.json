@@ -1,0 +1,22 @@
+{
+  "name": "kara",
+  "displayName": "kara",
+  "description": "Kara is Dark Theme",
+  "publisher": "metecan",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kara",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kara-color-theme.json"
+      }
+    ]
+  }
+}
