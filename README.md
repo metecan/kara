@@ -3,12 +3,13 @@
 ## 🚀 Description
 Kara is a sleek and vibrant color theme for your code editor. With its bold colors and modern design, Kara is perfect for highlighting important syntax and making your code stand out.
 
-Collabrate on [GitHub Repository](https://github.com/metecan/kara)
+Contribute on [GitHub Repository](https://github.com/metecan/kara)
 
 ## 🖼️ Screenshots of Kara
 
 
 ![](/images/1.jpeg)
+<br />
 ![](/images/2.jpeg)
 
 
