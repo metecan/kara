@@ -1,8 +1,9 @@
 {
   "name": "kara",
-  "displayName": "kara",
+  "displayName": "Kara",
   "description": "Kara is Dark Theme",
   "publisher": "metecan",
+  "icon": "images/spellIcon.png",
   "version": "0.0.1",
   "repository": {
     "type": "git",
