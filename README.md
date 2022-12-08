@@ -1,4 +1,4 @@
-# 🔳 Kara Dark Theme v0.1.1
+# 🔳 Kara Dark Theme v0.1.2
 
 ## 🚀 Description
 Kara is a sleek and vibrant color theme for your code editor. With its bold colors and modern design, Kara is perfect for highlighting important syntax and making your code stand out.
